@@ -1,4 +1,4 @@
-γ-rays from the first and second excited states of stable isotopes.
+γ-rays from the first and second excited states of stable nuclides.
 
 The graph was produced by M. Eslami, University of York
 
